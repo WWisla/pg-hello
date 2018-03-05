@@ -20,3 +20,12 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function userInfo() {
+
+	info =  'Hi, I am your smartphone :-)' + '\n' +
+			'188665'
+
+	navigator.notification.alert(info);
+	
+}
